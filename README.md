@@ -30,9 +30,17 @@ Zipalign of apk
 ![image](https://user-images.githubusercontent.com/34780150/117235288-115b1100-adec-11eb-8faa-2ee570ac1d73.png)
 
 
+Part 3
+
 Jarsigner of apk
 
 ![image](https://user-images.githubusercontent.com/34780150/117235630-b249cc00-adec-11eb-977e-072062240672.png)
 
 
 ![image](https://user-images.githubusercontent.com/34780150/117235646-ba097080-adec-11eb-807a-bc415a99d2fd.png)
+
+
+Verify of jarsigner
+
+![image](https://user-images.githubusercontent.com/34780150/117235817-166c9000-aded-11eb-8627-d87c10fbcbe0.png)
+
