@@ -1,6 +1,7 @@
 # a2
 Machine Problem 2 - Instrument or analyze android applications with Soot
 
+Part 1
 
 Added AndroidInstrument.java as well as sq3.apk in same environment as MP1.
 
@@ -11,3 +12,9 @@ Added AndroidInstrument.java as well as sq3.apk in same environment as MP1.
 New sq3.apk was generated into sootOuput. 
 
 ![7-sq3 apk in sootOutput](https://user-images.githubusercontent.com/34780150/117097794-3ee38400-ad32-11eb-8447-d72a927ce543.png)
+
+Part 2
+
+Generate keytool
+
+![image](https://user-images.githubusercontent.com/34780150/117232654-3436f680-ade7-11eb-9d17-88d4ea9f463b.png)
